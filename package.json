@@ -1,12 +1,15 @@
 {
   "name": "@patrtorg/hic-ex-deserunt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "PatrDen",
   "license": "MIT",
   "dependencies": {
+    "@dramaorg/esse-praesentium-eligendi": "^2.2.7",
+    "@juigorg/sit-nam-neque": "^1.0.9",
+    "@kollorg/dicta-itaque-nemo": "^1.1.9",
     "@patrtorg/a-ad-expedita": "^1.0.5",
     "@patrtorg/a-ut-amet": "^1.0.5",
     "@patrtorg/architecto-rerum-eos": "^1.0.4",
@@ -36,7 +39,16 @@
     "@patrtorg/quos-quasi-ipsa": "^1.0.5",
     "@patrtorg/sapiente-eos-magnam": "^1.0.5",
     "@patrtorg/sapiente-exercitationem-sit": "^1.0.5",
-    "@patrtorg/tenetur-animi-reprehenderit": "^1.0.5"
+    "@patrtorg/tenetur-animi-reprehenderit": "^1.0.5",
+    "@swenkerorg/modi-dolorum-provident": "^2.2.7",
+    "@zitterorg/aspernatur-pariatur-occaecati": "^4.2.5",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "validate",
